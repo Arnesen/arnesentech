@@ -1,0 +1,5 @@
+baseurl = "http://arnesen.tech/"
+languageCode = "en-us"
+title = "Arnesen Tech"
+theme = "base16"
+canonifyurl = true

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Arnesen Tech</title>
+    <link>http://arnesen.tech/post/</link>
+    <description>Recent content in Posts on Arnesen Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Feb 2016 14:09:44 +0100</lastBuildDate>
+    <atom:link href="http://arnesen.tech/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>welcome</title>
+      <link>http://arnesen.tech/post/welcome/</link>
+      <pubDate>Sun, 14 Feb 2016 14:09:44 +0100</pubDate>
+      
+      <guid>http://arnesen.tech/post/welcome/</guid>
+      <description>&lt;p&gt;Initial post. Please ignore. Or don&amp;rsquo;t.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
