@@ -1,4 +1,4 @@
-baseurl = "http://arnesen.tech/"
+baseurl = "http://arnesen.github.io/arnesentech"
 languageCode = "en-us"
 title = "Arnesen Tech"
 theme = "base16"
