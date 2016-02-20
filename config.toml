@@ -1,5 +1,0 @@
-baseurl = "http://arnesen.github.io/arnesentech"
-languageCode = "en-us"
-title = "Arnesen Tech"
-theme = "base16"
-canonifyurl = true
