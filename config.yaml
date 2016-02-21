@@ -4,7 +4,7 @@ layoutdir: "layouts"
 publishdir: "public"
 indexes:
   category: "categories"
-baseurl: "http://arnesen.github.io/arnesentech"
-title: "Arnesen Tech"
+baseurl: "http://arnesen.tech"
+title: "arnesen.tech"
 canonifyurls: true
 theme: "base16"
