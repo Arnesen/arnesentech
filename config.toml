@@ -3,7 +3,7 @@ baseurl = "arnesen.tech"
 title = "Arnesen Tech"
 paginate = 10
 copyright = "© 2016 Arnesen Tech"
-canonifyurls = false
+canonifyurls = true
 googleAnalytics = "UA-87922334-1" # optional
 
 # optional
