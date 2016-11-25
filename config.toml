@@ -1,6 +1,6 @@
 theme="amp"
 baseurl = "http://arnesen.tech"
-title = "Arnesen Tech"
+title = "Alexander Arnesen"
 paginate = 10
 copyright = "© 2016 Arnesen Tech"
 canonifyurls = true
@@ -8,11 +8,6 @@ publishdir = "docs"
 googleAnalytics = "UA-87922334-1" # optional
 
 # optional
-
-[[menu.header]]
-    name = "Github"
-    weight = 1
-    url = "https://github.com/Arnesen"
 
  [[menu.header]]
     name = "Instagram"
@@ -22,15 +17,9 @@ googleAnalytics = "UA-87922334-1" # optional
   [[menu.header]]
     name = "Photography"
     weight = 3
-    url = "http://arnesen.photography/"
+    url = "http://arnesen.photography"
 
   [[menu.header]]
-    name = "Categories"
+    name = "Github"
     weight = 4
-    url = "/categories/"
-
-
-# # optional
-# [social]
-#   instagram = "alxarn"
-#   github = "Arnesen"
+    url = "https://github.com/Arnesen"

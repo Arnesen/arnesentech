@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arnesen Tech</title>
+    <title>Alexander Arnesen</title>
     <link>http://arnesen.tech/index.xml</link>
-    <description>Recent content on Arnesen Tech</description>
+    <description>Recent content on Alexander Arnesen</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>© 2016 Arnesen Tech</copyright>
     <lastBuildDate>Fri, 25 Nov 2016 19:51:38 +0100</lastBuildDate>
