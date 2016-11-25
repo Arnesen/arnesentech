@@ -1,9 +1,10 @@
 theme="amp"
-baseurl = "arnesen.tech"
+baseurl = "http://arnesen.tech"
 title = "Arnesen Tech"
 paginate = 10
 copyright = "© 2016 Arnesen Tech"
 canonifyurls = true
+publishdir = "docs"
 googleAnalytics = "UA-87922334-1" # optional
 
 # optional

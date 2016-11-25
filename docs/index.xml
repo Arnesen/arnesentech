@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arnesen Tech</title>
-    <link>arnesen.tech/index.xml</link>
+    <link>http://arnesen.tech/index.xml</link>
     <description>Recent content on Arnesen Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>© 2016 Arnesen Tech</copyright>
     <lastBuildDate>Fri, 25 Nov 2016 19:51:38 +0100</lastBuildDate>
-    <atom:link href="arnesen.tech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://arnesen.tech/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>New site layout</title>
-      <link>/arnesen.tech/post/new-layout/</link>
+      <link>http://arnesen.tech/post/new-layout/</link>
       <pubDate>Fri, 25 Nov 2016 19:51:38 +0100</pubDate>
       
-      <guid>/arnesen.tech/post/new-layout/</guid>
+      <guid>http://arnesen.tech/post/new-layout/</guid>
       <description>&lt;p&gt;After discovering the &lt;a href=&#34;https://www.ampproject.org/&#34;&gt;AMP project&lt;/a&gt;, I had to check it out. And using the &lt;a href=&#34;http://themes.gohugo.io/amp/&#34;&gt;AMP theme for Hugo&lt;/a&gt;, updating this site for AMP was incredibly easy!&lt;/p&gt;
 
 &lt;p&gt;The layout is still pretty simple though, I am hoping to work more no the look later :)&lt;/p&gt;
@@ -23,10 +23,10 @@
     
     <item>
       <title>Photography in Bergen</title>
-      <link>/arnesen.tech/post/photography/</link>
+      <link>http://arnesen.tech/post/photography/</link>
       <pubDate>Sun, 21 Feb 2016 17:00:00 +0100</pubDate>
       
-      <guid>/arnesen.tech/post/photography/</guid>
+      <guid>http://arnesen.tech/post/photography/</guid>
       <description>&lt;p&gt;I love photography. And I am lucky enough to live in a country and city that makes it easy.&lt;/p&gt;
 
 
@@ -85,10 +85,10 @@
     
     <item>
       <title>welcome</title>
-      <link>/arnesen.tech/post/welcome/</link>
+      <link>http://arnesen.tech/post/welcome/</link>
       <pubDate>Sun, 14 Feb 2016 14:09:44 +0100</pubDate>
       
-      <guid>/arnesen.tech/post/welcome/</guid>
+      <guid>http://arnesen.tech/post/welcome/</guid>
       <description>&lt;p&gt;Initial post. Please ignore. Or don&amp;rsquo;t.&lt;/p&gt;
 </description>
     </item>
