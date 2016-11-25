@@ -2,17 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://arnesen.tech/</loc>
+    <loc>/arnesen.tech/</loc>
+    <lastmod>2016-11-25T19:51:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/arnesen.tech/post/new-layout/</loc>
+    <lastmod>2016-11-25T19:51:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/arnesen.tech/post/photography/</loc>
     <lastmod>2016-02-21T17:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://arnesen.tech/post/photography/</loc>
-    <lastmod>2016-02-21T17:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://arnesen.tech/post/welcome/</loc>
+    <loc>/arnesen.tech/post/welcome/</loc>
     <lastmod>2016-02-14T14:09:44+01:00</lastmod>
   </url>
   

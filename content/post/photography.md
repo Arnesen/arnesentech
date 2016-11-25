@@ -1,15 +1,14 @@
 +++
 date = "2016-02-21T17:00:00+01:00"
 title = "Photography in Bergen"
-description = "I love photography. And I am lucky enough to live in a country and city that makes it easy."
-categories = ["photography"]
+description = "I love photography. And I am lucky enough to live in a country and city that makes it easy." categories = ["photography"]
 +++
 
 I love photography. And I am lucky enough to live in a country and city that makes it easy.
 
 {{< figure src="http://arnesen.photography/storage/cache/images/000/071/bergenbynight,xlarge.2x.1447965265.jpg" title="Bergen" >}}
 
- Almost feels like cheating at times.
+Almost feels like cheating at times.
 
 {{< figure src="http://arnesen.photography/storage/cache/images/000/073/northights-1,xlarge.2x.1447965265.jpg" title="Northern Lights" >}}
 

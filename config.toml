@@ -1,0 +1,35 @@
+theme="amp"
+baseurl = "arnesen.tech"
+title = "Arnesen Tech"
+paginate = 10
+copyright = "© 2016 Arnesen Tech"
+canonifyurls = false
+googleAnalytics = "UA-87922334-1" # optional
+
+# optional
+
+[[menu.header]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/Arnesen"
+
+ [[menu.header]]
+    name = "Instagram"
+    weight = 2
+    url = "https://instagram.com/alxarn"
+
+  [[menu.header]]
+    name = "Photography"
+    weight = 3
+    url = "http://arnesen.photography/"
+
+  [[menu.header]]
+    name = "Categories"
+    weight = 4
+    url = "/categories/"
+
+
+# # optional
+# [social]
+#   instagram = "alxarn"
+#   github = "Arnesen"

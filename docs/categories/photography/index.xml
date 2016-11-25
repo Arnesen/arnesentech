@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>arnesen.tech</title>
-    <link>http://arnesen.tech/categories/photography/index.xml</link>
-    <description>Recent content on arnesen.tech</description>
+    <title>Arnesen Tech</title>
+    <link>arnesen.tech/categories/photography/index.xml</link>
+    <description>Recent content on Arnesen Tech</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://arnesen.tech/categories/photography/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2016 Arnesen Tech</copyright>
+    <atom:link href="arnesen.tech/categories/photography/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Photography in Bergen</title>
-      <link>http://arnesen.tech/post/photography/</link>
+      <link>/arnesen.tech/post/photography/</link>
       <pubDate>Sun, 21 Feb 2016 17:00:00 +0100</pubDate>
       
-      <guid>http://arnesen.tech/post/photography/</guid>
+      <guid>/arnesen.tech/post/photography/</guid>
       <description>&lt;p&gt;I love photography. And I am lucky enough to live in a country and city that makes it easy.&lt;/p&gt;
 
 
