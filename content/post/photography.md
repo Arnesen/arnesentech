@@ -2,7 +2,6 @@
 date = "2016-02-21T17:00:00+01:00"
 title = "Photography in Bergen"
 description = "I love photography. And I am lucky enough to live in a country and city that makes it easy."
-tags = [ "photography" ]
 +++
 
 I love photography. And I am lucky enough to live in a country and city that makes it easy.
