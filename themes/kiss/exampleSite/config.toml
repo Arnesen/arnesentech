@@ -1,9 +1,10 @@
 baseurl = "https://www.example.com"
 languageCode = "en"
-title = "Alexander Arnesen"
-theme = "Kiss"
-copyright = ""
-googleAnalytics = "UA-87922334-1"
+title = "Hugo Kiss theme"
+theme = "kiss"
+copyright = "&copy; <a href=\"https://github.com/ribice\">Emir Ribic</a> 2017"
+disqusShortname = "shortname"
+googleAnalytics = ""
 # Number of posts per page
 Paginate = 5
 enableRobotsTXT = true 
@@ -16,7 +17,7 @@ customCSS = ["css/custom.css"]
 adsense = "" # Adsense ID (ID only, without ca-pub-)
 enableSocial = false # Adds OpenGraph and Twitter cards
 homeTitle = "" # Title for home page
-poweredby = false # Adds powered by Hugo and Kiss below Copyright section
+poweredby = true # Adds powered by Hugo and Kiss below Copyright section
 
 [params.opengraph.facebook]
 admins = [] # array of Facebook IDs
@@ -28,12 +29,12 @@ page = "" # Twitter Page username. If not set, params.social.twitter will be use
 
 [params.social]
 
-twitter = "AlxArn"
-github = "Arnesen"
-email = ""
-linkedin = ""
-facebook = ""
-instagram = "alxarn"
+twitter = "ribicemir"
+github = "ribice"
+email = "ribice@gmail.com"
+linkedin = "ribice"
+facebook = "ribice"
+instagram = ""
 codepen = ""
 
 [taxonomies]
