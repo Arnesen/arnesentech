@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Alexander Arnesen</title>
+    <link>https://www.example.com/post/</link>
+    <description>Recent content in Posts on Alexander Arnesen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 21 Feb 2016 17:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Photography in Bergen</title>
+      <link>https://www.example.com/post/photography/</link>
+      <pubDate>Sun, 21 Feb 2016 17:00:00 +0100</pubDate>
+      
+      <guid>https://www.example.com/post/photography/</guid>
+      <description>I love photography. And I am lucky enough to live in a country and city that makes it easy.
+ Bergen   Almost feels like cheating at times.
+ Northern Lights   This winter I went out looking at a meteor shower. I did not get any good photos of the shower itself, but I was able to capture the northern lights. Worth being tired the next day at work!</description>
+    </item>
+    
+    <item>
+      <title>welcome</title>
+      <link>https://www.example.com/post/welcome/</link>
+      <pubDate>Sun, 14 Feb 2016 14:09:44 +0100</pubDate>
+      
+      <guid>https://www.example.com/post/welcome/</guid>
+      <description>Initial post. Please ignore. Or don&amp;rsquo;t.</description>
+    </item>
+    
+  </channel>
+</rss>
