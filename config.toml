@@ -1,4 +1,4 @@
-baseurl = "https://arnesen.tech"
+baseurl = "http://arnesen.tech"
 languageCode = "en"
 title = "Alexander Arnesen"
 theme = "Kiss"
@@ -10,8 +10,6 @@ enableRobotsTXT = true
 publishDir = "docs"
 
 
-[params.assets]
-customCSS = ["css/custom.css"]
 
 [params.info]
 adsense = "" # Adsense ID (ID only, without ca-pub-)
