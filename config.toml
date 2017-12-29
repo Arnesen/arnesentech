@@ -1,4 +1,4 @@
-baseurl = "http://arnesen.tech"
+baseurl = "https://arnesen.tech"
 languageCode = "en"
 title = "Alexander Arnesen"
 theme = "Kiss"
